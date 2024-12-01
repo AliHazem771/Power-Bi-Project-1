@@ -1,6 +1,7 @@
 Power BI Dashboard README
 Overview
 This Power BI dashboard provides a comprehensive analysis of profit data segmented by state province and year. It allows users to visualize trends in profitability across different regions and timeframes.
+![Dashboard](https://github.com/AliHazem771/Power-Bi-Project-1/blob/main/Power%20Bi%201%20report.PNG?raw=true)
 
 Dashboard Components
 1. Sum of Profit by State Province
@@ -43,5 +44,3 @@ Regular Updates: Ensure the data is updated regularly to reflect the most curren
 
 Conclusion
 This Power BI dashboard serves as a powerful tool for analyzing profit data by state and year, offering valuable insights for strategic planning and performance evaluation.
-
-![Dashboard](https://github.com/AliHazem771/Power-Bi-Project-1/blob/main/Power%20Bi%201%20report.PNG?raw=true)
