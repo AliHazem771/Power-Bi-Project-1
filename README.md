@@ -42,5 +42,6 @@ Decision Making: Utilize the insights gathered from this dashboard to inform str
 
 Regular Updates: Ensure the data is updated regularly to reflect the most current profit figures and trends. This can help in monitoring performance and making timely adjustments to business strategies.
 
-Conclusion
+## Conclusion
+
 This Power BI dashboard serves as a powerful tool for analyzing profit data by state and year, offering valuable insights for strategic planning and performance evaluation.
