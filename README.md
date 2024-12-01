@@ -8,11 +8,11 @@ Dashboard Components
 Chart Type: Bar Chart
 Description: Displays the total profit generated in each state, highlighting key contributors to overall profitability.
 Key States:
-California
-Washington
-Alaska
-Oregon
-Nevada
+California,
+Washington,
+Alaska,
+Oregon,
+Nevada,
 Hawaii
 2. Sum of Profit by Year
 Chart Type: Pie Chart
